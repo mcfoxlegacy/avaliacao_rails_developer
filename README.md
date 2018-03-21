@@ -116,10 +116,9 @@ Deals (For the Salesman Above):
 
 [Import All Selected Deals]
 
-Cancel
+<u>Cancel</u>
 
 # Screen Legend:
-
 
 
 [\_] : Check Box
