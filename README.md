@@ -1,14 +1,10 @@
 # Rails Developer Admission Test
 
-The candidate should implement  and deploy the application as defined below
-
-The code should be available on a github open repository
-
-The application must be running on a free heroku&#39;s account
-
-The candidate must provide the github&#39;s url and heroku&#39;s url for our evaluation
-
-A Readme should be available in the source code with instructions for usage, deploy and development of the application
+- The candidate should implement  and deploy the application as defined below
+- The code should be available on a github open repository
+- The application must be running on a free heroku&#39;s account
+- The candidate must provide the github&#39;s url and heroku&#39;s url for our evaluation
+- A Readme should be available in the source code with instructions for usage, deploy and development of the application
 
 # App Definition
 
@@ -24,11 +20,10 @@ Functional Requirements:
 - I want to be able to mark a deal as &#39;won&#39; or &#39;lost&#39;;
 - I want to import deals from a Pipedrive Account
 
-Create a free trial account for this test:
 
-[https://www.pipedrive.com/](https://www.pipedrive.com/)
-
-[https://developers.pipedrive.com/docs/api/v1/](https://developers.pipedrive.com/docs/api/v1/)
+Create a free Pipedrive trial account for this test:
+- [https://www.pipedrive.com/](https://www.pipedrive.com/)
+- [https://developers.pipedrive.com/docs/api/v1/](https://developers.pipedrive.com/docs/api/v1/)
 
 # Technical Requirements
 
@@ -73,9 +68,9 @@ The result should be similar to the screens and use cases below
 
 | Customer | Description | Status | Closing Date/ Probability | Value | Actions |
 | --- | --- | --- | --- | --- | --- |
-| Acme | Multi Billion Dollars Sale | Won | 03/03/18 | US$ 2,5 B | Edit | Destroy | Won | Lost |
-| W&amp;B | Multi Million Dollars Sale | Pending | In 25 days70% | US$ 2,5 M | Edit | Destroy | Won | Lost |
-| Acme | Multi thousand Dollars Sale | Lost | 03/02/18 | US$ 2,5 K | Edit | Destroy | Won | Lost |
+| Acme | Multi Billion Dollars Sale | Won | 03/03/18 | US$ 2,5 B | Edit Destroy Won Lost |
+| W&amp;B | Multi Million Dollars Sale | Pending | In 25 days70% | US$ 2,5 M | Edit Destroy Won Lost |
+| Acme | Multi thousand Dollars Sale | Lost | 03/02/18 | US$ 2,5 K | Edit Destroy Won Lost |
 
 |&lt; &lt; Page: n of nn &gt; &gt;|
 
