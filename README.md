@@ -53,7 +53,7 @@ The result should be similar to the screens and use cases below
 - On this screen user can CRUD Deals
 - User can Import Deals from a Pipedrive Account
 
-
+## Screen:
 
 **+ Deals:**
 
@@ -89,6 +89,8 @@ The result should be similar to the screens and use cases below
 - Select Pipeline and update Owner Combo with Ajax (Save selected queue on session for future imports)
 - Select salesman and update Deals list with Ajax (Save Selected Salesman on session for future imports)
 - Select Deals to Import, Import Deals and go back to main Screen.
+
+## Screen:
 
 **Import Deals from Pipedrive**
 
