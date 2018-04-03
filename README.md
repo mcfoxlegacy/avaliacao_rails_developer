@@ -82,7 +82,7 @@ The result should be similar to the screens and use cases below
 - Open a Popup Window
 - Inform Pipedrive token and connect (Save token on session for future imports)
 - Select Pipeline and update Owner Combo with Ajax (Save selected queue on session for future imports)
-- Select salesman and update Deals list with Ajax (Save Selected Salesman on session for future imports)
+- Select Owner and update Deals list with Ajax (Save Selected Salesman on session for future imports)
 - Select Deals to Import, Import Deals and go back to main Screen.
 
 ## Screen:
